@@ -1,6 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
-
+[![Build Status](https://dev.azure.com/vfdevopsworkshop/AppInnovationLuca/_apis/build/status%2FLucaa42.ContosoAir?branchName=master)](https://dev.azure.com/vfdevopsworkshop/AppInnovationLuca/_build/latest?definitionId=134&branchName=master)
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
